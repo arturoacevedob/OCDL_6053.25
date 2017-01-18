@@ -1,5 +1,6 @@
 Arturo Acevedo
 
-My plan is go work through the Ruby textbook.
+1. My objective is go work through the Ruby textbook to focus my knowledge in this flexible language.
+I'm going to upload all the Ruby exercises, with the exception of repeated practices.
 
-I'm planning to upload all my Ruby exercises.
+2. Depending the circumstances of my progress and time, I may consider writing a more scomplex Ruby script of my liking.
