@@ -16,12 +16,15 @@ puts "-------------"
 five = 10 - 2 + 3 - 6
 puts "This should be five: #{five}"
 
-def secretformula(started)
-	jellybeans = started * 500
-	jars = jellybeans / 1000
+def secretformula(startpoint)
+	beans = startpoint * 500
+	jars = beans / 1000
 	crates = jars / 100
-	return jellybeans, jars, crates
+	return beans, jars, crates
 end
 
-startpoint = 1000
-beans, jars, crates =
+startpoint = 10000
+beans, jars, crates = secretformula(startpoint)
+
+puts "With a starting point of: #{startpoint}"
+puts "We'd have #{beans} beans, #{jars} jars, and #{crates} crates."
